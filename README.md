@@ -1,3 +1,5 @@
-# Trabajo Practico Final - Comunicaciones Digitales
+# Comunicaciones Digitales - TPF
+
+## Consigna:
 
 Simulador de transmisor/receptor de LoRa para SDR.
