@@ -1,4 +1,6 @@
-# Comunicaciones Digitales - TPF
+# Comunicaciones Digitales
+
+Trabajo Practico Final
 
 ## Consigna:
 
