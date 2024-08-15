@@ -1,2 +1,3 @@
-# ComDigitales_TPFinal
-Proyecto Final de la materia Comunicaciones Digitales. FCEFyN - UNC
+# Trabajo Practico Final - Comunicaciones Digitales
+
+Simulador de transmisor/receptor de LoRa para SDR.
