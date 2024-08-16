@@ -1,7 +1,7 @@
 # Comunicaciones Digitales
 
-Trabajo Practico Final
+## Trabajo Practico Final
 
-## Consigna:
+### Consigna:
 
 Simulador de transmisor/receptor de LoRa para SDR.
